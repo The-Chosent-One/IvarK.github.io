@@ -63,7 +63,7 @@ var player = {
     bestInfinityTime: 9999999999,
     thisInfinityTime: 0,
     resets: 0,
-    galaxies: 1e10,
+    galaxies: 1e3,
     tickDecrease: 0.9,
     totalmoney: new Decimal(0),
     achPow: 1,
